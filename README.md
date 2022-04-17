@@ -10,9 +10,9 @@ Es un sistema de información que esta deseñado para llevar a cabo el control d
 * :hammer: Más sobre **[Node.js](https://nodejs.org/es/download/)** :round_pushpin:
 * :hammer: Más sobre **[Express.js](https://expressjs.com/es/starter/installing.html)** :round_pushpin:
 * :hammer: Más sobre **[Typescript](https://apuntes.de/typescript/instalacion-de-typescript/#gsc.tab=0)**:round_pushpin:
-* :hammer: Más sobre **[Fase API de azure](https://apuntes.de/typescript/instalacion-de-typescript/#gsc.tab=0)**:round_pushpin:
+* :hammer: Más sobre **[Fase API de azure](https://azure.microsoft.com/es-es/services/cognitive-services/face/#overview)**:round_pushpin:
 
-## Documentación de la API.
+## :clipboard:Documentación de la API.
 * :card_index: **[Documentación de la API](https://documenter.getpostman.com/view/16901446/Uyr5myTs)**
 * :card_index: **[Documentación de la API](https://documenter.getpostman.com/view/16901446/Uyr5myTr)**
 
