@@ -13,7 +13,7 @@ Es un sistema de información que esta deseñado para llevar a cabo el control d
 
 
 ## :memo: Autores. 
+* :crown: Jose Daniel Bermudez Salamanca.
 * :soccer: Robin David Rodriguez Bautista.
-* :soccer: Jose Daniel Bermudez Salamanca.
 * :ribbon: Orealis Ospina Puentes.
 * :ribbon: Giver Andrea Martinez Hernandez.
