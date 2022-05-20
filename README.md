@@ -12,9 +12,7 @@ Le permitira al administrador registrar un nuevo usuario realizarle el reconocim
 
 ![](https://cdn.dribbble.com/users/3735399/screenshots/6799273/icon_9.gif)
 
-# :book: Pre-Requisitos.
 
-# :wrench: Instalacion. 
 
 # :rocket: Estado del proyecto.
 En desarrollo-->
